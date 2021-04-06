@@ -6,6 +6,7 @@ Today I learned
 ## HTML
 
 * [HTML](https://github.com/dalkang/TIL/tree/main/HTML)
+* [Tags](https://github.com/dalkang/TIL/blob/main/HTML/Tags.md)
 
 
 
