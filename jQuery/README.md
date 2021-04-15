@@ -95,22 +95,6 @@
 
 <br>
 
-## jQuery 변수
-
-* ```javascript
-const $example = $('selector')
-  ```
-  
-* 여러 개를 찾은 경우 변수는 배열로 생성
-
-  * ```javascript
-    const $tds = $('td'); // 이 코드는
-    const tds = document.getElementsByTagName('td'); // 이 코드와 동일
-    ```
-
-
-<br>
-
 ## jQuery 이벤트
 
 * 기존의 자바스크립트에서 사용했던 이벤트 대부분 사용 가능
