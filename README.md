@@ -18,8 +18,7 @@ Today I learned
 
 ## JavaScript
 
-* [let](https://github.com/dalkang/TIL/blob/main/JavaScript/let.md)
-* [Hoisting](https://github.com/cubodado/TIL/blob/main/JavaScript/Hoisting.md)
+* [Declarations](https://github.com/cubodado/TIL/blob/main/JavaScript/Declarations.md)
 
 
 
