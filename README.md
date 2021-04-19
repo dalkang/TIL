@@ -19,6 +19,7 @@ Today I learned
 ## JavaScript
 
 * [Declarations](https://github.com/cubodado/TIL/blob/main/JavaScript/Declarations.md)
+* [Arrow Function](https://github.com/cubodado/TIL/blob/main/JavaScript/Arrow%20Function.md)
 
 
 
